@@ -9,7 +9,7 @@ intmain(){
     //calculate the sum
     sum=num1+num2;
     //display the result
-    cout<<"sum<<num1,num2"
+    cout<<"sum<<num1,num2" 
     return 0;
 
 }

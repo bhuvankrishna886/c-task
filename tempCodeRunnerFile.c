@@ -2,7 +2,7 @@
 #include <stdio.h>
 // Main function
 int main()
-{
+{ 
     int a[100];  // Declare an array of size 100 to store integer values
     int i, n, sum = 0;  // Declare variables to store array size, loop counter, and sum
     // Display a message to the user about the program's purpose
